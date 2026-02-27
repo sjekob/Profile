@@ -11,9 +11,11 @@ I am an Information Technology student focused on solving real-world problems by
 
 ### 🌐 Socials:
 <p align="left">
-<a href="YOUR_LINK" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
-<a href="YOUR_LINK" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:your-email@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.facebook.com/sjikub/" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://www.facebook.com/sjikub/" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/marc-jacob-carino-29296930a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.behance.net/marcjacobcario" target="blank"><img src="https://img.shields.io/badge/Behance-%231769ff.svg?style=for-the-badge&logo=Behance&logoColor=white" alt="Behance" /></a>
+<a href="mailto:marcjacobcarino@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -32,9 +34,9 @@ I am an Information Technology student focused on solving real-world problems by
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sjekob&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sjekob&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
