@@ -5,7 +5,6 @@ I am an Information Technology student focused on solving real-world problems by
 
 * 🚀 **Currently focusing on:** Advanced **Django** development and Full-Stack architecture.
 * 🏗️ **Exploring:** System Design, RESTful APIs, and **CI/CD** workflows.
-* 🎸 **Interests:** When I'm not coding, I'm practicing **bass guitar** or exploring **graphic design**.
 
 ---
 
